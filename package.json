@@ -17,7 +17,7 @@
   },
   "repository" : {
     "type" : "git",
-    "url" : "http://github.com/GoogleChrome/chromeify.git"
+    "url" : "http://github.com/GoogleChrome/browserify-chrome.git"
   },
   "author" : {
     "name" : "Paul Kinlan",
