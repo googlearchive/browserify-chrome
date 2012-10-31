@@ -1,0 +1,28 @@
+{
+  "name": "chromeify",
+  "version": "0.0.0",
+  "description": "Tool for creating managing the creation of Chrome Apps with Browserify",
+  "main": "index.js",
+  "bin" : {
+    "chromeify" : "bin/cmd.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies" : {
+    "browserify": "1.16.x",
+    "net-chromeify": "0.0.x",
+    "optimist" : "*",
+    "resolve" : "*"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "http://github.com/GoogleChrome/chromeify.git"
+  },
+  "author" : {
+    "name" : "Paul Kinlan",
+    "email" : "paul.kinlan@gmail.com",
+    "url" : "http://github.com/GoogleChrome"
+  },
+  "license": "Apache2"
+}
