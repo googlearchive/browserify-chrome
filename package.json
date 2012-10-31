@@ -1,5 +1,5 @@
 {
-  "name": "chromeify",
+  "name": "browserify-chrome",
   "version": "0.0.0",
   "description": "Tool for creating managing the creation of Chrome Apps with Browserify",
   "main": "index.js",
